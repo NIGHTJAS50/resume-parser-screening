@@ -1,4 +1,5 @@
 fastapi==0.141.1
 uvicorn==0.40.0
 pydantic==2.12.5
+spacy==3.8.11
 pytest==9.0.2
